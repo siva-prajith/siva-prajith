@@ -2,7 +2,7 @@
 <h3 align="center">Flutter & Full-Stack Developer — building cross-platform mobile apps and modern web apps with React / Next.js</h3>
 
 <p align="center">
-  📍 Karur, Tamil Nadu, India &nbsp;•&nbsp; 💼 Open to Flutter / Frontend / Full-Stack roles &nbsp;•&nbsp; 📧 <a href="mailto:sivaprajee@gmail.com">sivaprajee@gmail.com</a>
+  📍 Karur, Tamil Nadu, India &nbsp;•&nbsp; 💼 Open to Flutter / Frontend / Full-Stack roles &nbsp;•&nbsp; 📧 <a href="mailto:sivaprajith97@gmail.com">sivaprajee@gmail.com</a>
 </p>
 
 ---
