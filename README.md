@@ -2,7 +2,7 @@
 <h3 align="center">Flutter & Full-Stack Developer — building cross-platform mobile apps and modern web apps with React / Next.js</h3>
 
 <p align="center">
-  📍 Karur, Tamil Nadu, India &nbsp;•&nbsp; 💼 Open to Flutter / Frontend / Full-Stack roles &nbsp;•&nbsp; 📧 <a href="mailto:sivaprajith97@gmail.com">sivaprajee@gmail.com</a>
+  📍 Karur, Tamil Nadu, India &nbsp;•&nbsp; 💼 Open to Flutter / Frontend / Full-Stack roles &nbsp;•&nbsp; 📧 <a href="mailto:sivaprajith97@gmail.com">sivaprajith97@gmail.com</a>
 </p>
 
 ---
@@ -29,4 +29,4 @@
 | [Movie Collection API](https://github.com/Siva-coder676/moviecollection-backend-api) | REST API with CRUD operations | Node.js |
 
 ### 🤝 Let's connect
-I'm open to **full-time roles and freelance work** — reach me at [sivaprajee@gmail.com](mailto:sivaprajee@gmail.com).
+I'm open to **full-time roles and freelance work** — reach me at [sivaprajith97@gmail.com](mailto:sivaprajith97@gmail.com).
