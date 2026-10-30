@@ -28,11 +28,5 @@
 | [BLE File Transfer](https://github.com/Siva-coder676/ble_file_transfer_poc) | File transfer over Bluetooth Low Energy | Flutter · Dart |
 | [Movie Collection API](https://github.com/Siva-coder676/moviecollection-backend-api) | REST API with CRUD operations | Node.js |
 
-### 📊 GitHub stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Siva-coder676&show_icons=true&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-coder676&layout=compact&hide_border=true" />
-</p>
-
 ### 🤝 Let's connect
 I'm open to **full-time roles and freelance work** — reach me at [sivaprajee@gmail.com](mailto:sivaprajee@gmail.com).
